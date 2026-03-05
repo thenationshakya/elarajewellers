@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://elarajewellers.com.np/sitemap-index.xml
